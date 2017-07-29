@@ -1,0 +1,66 @@
+
+
+.mask p
+{
+  color: white;
+  margin-bottom: 0px;
+
+}
+
+.mask .offering-heading
+{
+    padding: 10px;
+    font-weight: bold;
+}
+
+.mask .offering-description
+{
+  text-align: left;
+  padding: 10px;
+}
+.view-tenth
+{
+    height: 17.75em;
+}
+
+#owl-demo .item img
+{
+  height: 17.75em;
+}
+
+.products-heading
+{
+  text-align: center;
+}
+
+#sequence .animate-in .info , #sequence .animate-in .info
+{
+  color:white;
+}
+
+  #sequence .info 
+  {
+    color: #dcd8d8;
+  }
+
+  #sequence
+  {
+    background: url(../../img/seq-slider/bg-sky.png) repeat-x #c967e8;
+  }
+
+  .mask .info
+  {
+    margin: 2px;
+  }
+
+  .nav li
+  {
+    cursor: pointer;
+  }
+
+
+  .mainImage
+  {
+    height: 570px;
+    width: 100%;
+  }
